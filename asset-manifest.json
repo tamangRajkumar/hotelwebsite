@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/hotelwebsite/static/css/main.1795dd7b.chunk.css",
-    "main.js": "/hotelwebsite/static/js/main.a0124b53.chunk.js",
-    "main.js.map": "/hotelwebsite/static/js/main.a0124b53.chunk.js.map",
+    "main.css": "/hotelwebsite/static/css/main.7966b87d.chunk.css",
+    "main.js": "/hotelwebsite/static/js/main.6fd2fe2e.chunk.js",
+    "main.js.map": "/hotelwebsite/static/js/main.6fd2fe2e.chunk.js.map",
     "runtime-main.js": "/hotelwebsite/static/js/runtime-main.930018be.js",
     "runtime-main.js.map": "/hotelwebsite/static/js/runtime-main.930018be.js.map",
-    "static/js/2.e74ecf4d.chunk.js": "/hotelwebsite/static/js/2.e74ecf4d.chunk.js",
-    "static/js/2.e74ecf4d.chunk.js.map": "/hotelwebsite/static/js/2.e74ecf4d.chunk.js.map",
+    "static/js/2.54d64203.chunk.js": "/hotelwebsite/static/js/2.54d64203.chunk.js",
+    "static/js/2.54d64203.chunk.js.map": "/hotelwebsite/static/js/2.54d64203.chunk.js.map",
     "index.html": "/hotelwebsite/index.html",
-    "static/css/main.1795dd7b.chunk.css.map": "/hotelwebsite/static/css/main.1795dd7b.chunk.css.map",
-    "static/js/2.e74ecf4d.chunk.js.LICENSE.txt": "/hotelwebsite/static/js/2.e74ecf4d.chunk.js.LICENSE.txt",
-    "static/media/imgBoudha.97a5b28b.jpg": "/hotelwebsite/static/media/imgBoudha.97a5b28b.jpg",
-    "static/media/sampleimg.1f11233b.jpg": "/hotelwebsite/static/media/sampleimg.1f11233b.jpg"
+    "static/css/main.7966b87d.chunk.css.map": "/hotelwebsite/static/css/main.7966b87d.chunk.css.map",
+    "static/js/2.54d64203.chunk.js.LICENSE.txt": "/hotelwebsite/static/js/2.54d64203.chunk.js.LICENSE.txt",
+    "static/media/img1.1add625b.jpg": "/hotelwebsite/static/media/img1.1add625b.jpg",
+    "static/media/img2.06ddc41a.jpeg": "/hotelwebsite/static/media/img2.06ddc41a.jpeg",
+    "static/media/img3.be65d839.jpg": "/hotelwebsite/static/media/img3.be65d839.jpg",
+    "static/media/img4.e0730304.jpg": "/hotelwebsite/static/media/img4.e0730304.jpg",
+    "static/media/imgBoudha.97a5b28b.jpg": "/hotelwebsite/static/media/imgBoudha.97a5b28b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.930018be.js",
-    "static/js/2.e74ecf4d.chunk.js",
-    "static/css/main.1795dd7b.chunk.css",
-    "static/js/main.a0124b53.chunk.js"
+    "static/js/2.54d64203.chunk.js",
+    "static/css/main.7966b87d.chunk.css",
+    "static/js/main.6fd2fe2e.chunk.js"
   ]
 }
